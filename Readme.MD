@@ -21,4 +21,4 @@ An simple Keras model with one flattern layer and two dense layers is used with 
 Model is trained with only a single sample of each digit which seems to work ok if setup is aligned probably (Digits do not vary as long at setup is keept steady). A noise function                               
 is included to add gaussian noise to an image and is intented to be used to create slightly different images from same test image. It does not seems to be necessary though to use this.                           
                                                                                                                                                                                                                    
-As test setup and arduino UNO was used with an 3641AS red led 7 segment display (Arduino code is included in segment.ino)                                                      
+As test setup a 1080p webcam and an arduino UNO was used with an 3641AS red led 7 segment display (Arduino code is included in segment.ino)                                                      
